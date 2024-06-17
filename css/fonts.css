@@ -1,1 +1,14 @@
+@font-face {
+    src: url(../resources/fonts/ARCHIVO_BLACK.ttf);
+    font-family: Archivo Black;
+}
 
+@font-face {
+    src: url(../resources/fonts/EXO.ttf);
+    font-family: Exo;
+}
+
+@font-face {
+    src: url(../resources/fonts/GT.otf);
+    font-family: GT;
+}
